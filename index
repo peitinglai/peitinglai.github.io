@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Happy Birthday ~</title>
+
+    <!-- let's code CSS (ฅ>ω<*ฅ) -->
+    <style>
+        body {
+            background-color: rgb(65, 184, 131);
+            font-family: Consolas, monospace;
+        }
+
+        embed {
+            max-height: 20em;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <!-- ~ and HTML (ฅ>ω<*ฅ) -->
+    <div id="wrapper">
+        <h1>Happy Birthday ~ (ฅ>ω<*ฅ)</h1>
+        <embed src="cake.svg" type="image/svg+xml" />
+        <h1>~ Learn to Build Your Own Page</h1>
+    </div>
+
+    <!-- ~ also Javascript ~ (ฅ>ω<*ฅ) -->
+    <script>
+
+    </script>
+
+</body>
+</html>
